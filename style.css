@@ -1,0 +1,38 @@
+.container{
+    padding-top: 20px;
+}
+table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+td {
+    border: 1px solid red;
+}
+
+table {
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    width: 75px;
+    height: 75px;
+}
+
+#sil,
+#teksil{
+    margin-left: 15px;
+    height: 20px;
+}
+
+input{
+    width: 200px;
+}
